@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\bin\Debug\net7.0\Producer.exe
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\bin\Debug\net7.0\Producer.deps.json
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\bin\Debug\net7.0\Producer.runtimeconfig.json
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\bin\Debug\net7.0\Producer.dll
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\bin\Debug\net7.0\Producer.pdb
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\Producer.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\Producer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\Producer.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\Producer.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\Producer.dll
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\refint\Producer.dll
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\Producer.pdb
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\Producer.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\FIRSTRABBITMQ-APP\Producer\obj\Debug\net7.0\ref\Producer.dll
